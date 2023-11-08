@@ -24,10 +24,15 @@ console.log(id == anotherId);
 //const heros = [" shaktiman" , "Doremon"]
 
 //let myObj { 
-    name: "Adarsh",
+    
+name: "Adarsh",
    // age : 22,
 //}
 
 //console myFunction = Functions(){
     console.log("hello world");
 //}
+
+
+// Stack(Primitive), Heap (Non- Primitive)
+
