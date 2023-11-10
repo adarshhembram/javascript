@@ -9,3 +9,5 @@ console.log(typeof myDate);
 
 let myCreateDate = new Date(2023,100,9)
 console.log(myCreateDate.toLocaleString);
+
+
